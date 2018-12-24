@@ -55,168 +55,332 @@ git clone https://github.com/AlisamTechnology/ATSCAN.git
 #ATSCAN-V3
 git clone https://github.com/samyoyo/ATSCAN-V3.git
 #attackintel
-https://github.com/gr4ym4ntx/attackintel.git
+git clone https://github.com/gr4ym4ntx/attackintel.git
 #authtool
+git clone https://github.com/fusionbox/django-authtools.git
 #autocrack
+git clone https://github.com/timbo05sec/autocrack.git
 #AutoNessus
+git clone https://github.com/redteamsecurity/AutoNessus.git
 #AutoNSE
+git clone https://github.com/m4ll0k/AutoNSE.git
 #Autopwn
+git clone https://github.com/nccgroup/autopwn.git
 #autorelay
+git clone https://github.com/DanMcInerney/autorelay.git
+git clone https://github.com/DanMcInerney/autorelay/blob/master/autorelay.py
 #AutoSploit
+git clone https://github.com/NullArray/AutoSploit.git
 #AutoSQLi
+git clone https://github.com/jesuiscamille/AutoSQLi.git
 #avet
+git clone https://github.com/govolution/avet.git
 #backdoor-apk
+git clone https://github.com/dana-at-cp/backdoor-apk.git
 #backdoorme
+git clone https://github.com/Kkevsterrr/backdoorme.git
 #backdoorppt
+git clone https://github.com/r00t-3xp10it/backdoorppt.git
 #BadMod
+git clone https://github.com/MrSqar-Ye/BadMod.git
+#git clone https://github.com/abdulowosho/BadMod.git
 #BAF
+git clone https://github.com/engMaher/BAF.git
 #baudline
+git clone https://github.com/balint256/gr-baz/blob/master/python/baudline.py
 #BeeLogger
+git clone https://github.com/4w4k3/BeeLogger.git
 #BinGoo
-#blackeye
+git clone https://github.com/Hood3dRob1n/BinGoo.git
+#blackeye |Phishing
+git clone https://github.com/thelinuxchoice/blackeye.git
 #blackowl
+git clone https://github.com/samyoyo/blackowl.git
 #BoopSuite
+git clone https://github.com/wi-fi-analyzer/BoopSuite.git
+#git clone https://github.com/MisterBianco/BoopSuite.git
 #Brosec
+git clone https://github.com/gabemarshall/Brosec.git
 #Brutal
+git clone https://github.com/Screetsec/Brutal.git
 #BruteSploit
+git clone https://github.com/Screetsec/Brutal.git
 #brutespray
+git clone https://github.com/x90skysn3k/brutespray
 #BruteX
+git clone https://github.com/1N3/BruteX.git
 #BruteXSS
+git clone https://github.com/shawarkhanethicalhacker/BruteXSS-1.git
 #burpa
+git clone https://github.com/0x4D31/burpa.git
 #BurpBounty
+git clone https://github.com/wagiro/BurpBounty.git
 #BurpSuite_Pro_v1.7.32
+git clone https://github.com/sumas/BurpSuite_Pro_v1.7.32.git
 #cangibrina
+git clone https://github.com/fnk0c/cangibrina.git
 #catphish
+git clone https://github.com/ring0lab/catphish.git
 #CHAOS
+git clone https://github.com/tiagorlampert/CHAOS.git
 #CloudFail
+git clone https://github.com/m0rtem/CloudFail.git
 #cloudfrunt
+git clone https://github.com/aws-samples/aws-cloudfront-samples.git
 #CMSeeK
+git clone https://github.com/Tuhinshubhra/CMSeeK.git
 #CMSmap
+git clone https://github.com/Dionach/CMSmap.git
 #cobaltstrike
+echo "CobaltStrike 404"
 #credmap
+git clone https://github.com/lightos/credmap.git
 #Crips
+git clone https://github.com/Manisso/Crips.git
 #crowbar
+git clone https://github.com/crowbar/crowbar.git
 #csrfpocmaker
+git clone https://github.com/merttasci/csrf-poc-generator.git
 #CVE-2017-0199
+git clone https://github.com/bhdresh/CVE-2017-0199.git
 #CVE-2017-7494
+git clone https://github.com/opsxcq/exploit-CVE-2017-7494.git
 #CyberScan
+git clone https://github.com/medbenali/CyberScan.git
 #Dagon
+git clone https://github.com/Ekultek/Dagon.git
 #Debinject
+git clone https://github.com/UndeadSec/Debinject.git
 #dedsploit
+git clone https://github.com/ex0dus-0x/dedsploit.git
 #Devploit
+git clone https://github.com/joker25000/Devploit.git
 #dirhunt-develop
+git clone https://github.com/ClavinJune/dirhunter.git
+git clone https://github.com/Nekmo/dirhunt.git
 #DKMC
+git clone https://github.com/Mr-Un1k0d3r/DKMC.git
 #domainhunter
+git clone https://github.com/threatexpress/domainhunter.git
 #DorkFinder
+git clone https://github.com/raphaelland/Dork-Finder.git
 #DorkMe
+git clone https://github.com/blueudp/DorkMe.git
 #dotdotpwn
+git clone https://github.com/wireghoul/dotdotpwn.git
 #doublepulsar-c2-traffic-decryptor
+git clone https://github.com/countercept/doublepulsar-c2-traffic-decryptor.git
 #doublepulsar-detection
+git clone https://github.com/countercept/doublepulsar-detection-script.git
 #Dr0p1t-Framework
+git clone https://github.com/D4Vinci/Dr0p1t-Framework.git
 #Dracnmap
+git clone https://github.com/Screetsec/Dracnmap.git
 #drupwn
+git clone https://github.com/immunIT/drupwn.git
 #D-TECT
+git clone https://github.com/shawarkhanethicalhacker/D-TECT-1.git
 #DumpsterDiver
+git clone https://github.com/securing/DumpsterDiver.git
 #EagleEye
+git clone https://github.com/ThoughtfulDev/EagleEye.git
 #EaST
+git clone https://github.com/argman/EAST.git
 #Easy-Binder
+git clone https://github.com/ljessendk/easybinder.git
 #Ebowla
+git clone https://github.com/Genetic-Malware/Ebowla.git
 #EggShell
+git clone https://github.com/neoneggplant/EggShell.git
 #Empire-GUI
-#Empire-GUI
+git clone https://github.com/EmpireProject/Empire-GUI.git
 #Eternalblue-Doublepulsar-Metasploit
+git clone https://github.com/ElevenPaths/Eternalblue-Doublepulsar-Metasploit.git
 #eternal_scanner
+git clone https://github.com/peterpt/eternal_scanner.git
 #Evil-Droid
+git clone https://github.com/M4sc3r4n0/Evil-Droid.git
 #exploitdb
+git clone https://github.com/offensive-security/exploitdb.git
 #ExploitOnCLI
+git clone https://github.com/r00tmars/ExploitOnCLI.git
 #exploitpack
+git clone https://github.com/juansacco/exploitpack.git
 #exploits
+git clone https://github.com/WindowsExploits/Exploits.git
 #ezsploit
+git clone https://github.com/rand0m1ze/ezsploit.git
 #FakeImageExploiter
+git clone https://github.com/r00t-3xp10it/FakeImageExploiter.git
 #Findsploit
+git clone https://github.com/1N3/Findsploit.git
 #fipy
+git clone https://github.com/usnistgov/fipy.git
 #Galileo
-#gasmask
+git clone https://github.com/m4ll0k/Galileo.git
+#gasmask |OSINT
+git clone https://github.com/twelvesec/gasmask.git
 #gcat
+git clone https://github.com/byt3bl33d3r/gcat.git
 #getsploit
+git clone https://github.com/vulnersCom/getsploit.git
 #GhostInTheNet
+git clone https://github.com/cryptolok/GhostInTheNet.git
 #Git_Pentesting_Toolkit
+git clone https://github.com/ANK1036Official/Git_Pentesting_Toolkit.git
 #Gloom-Framework
+git clone https://github.com/StreetSec/Gloom-Framework.git
 #Goohak
+git clone https://github.com/1N3/Goohak.git
 #Grok-backdoor
+git clone https://github.com/deepzec/Grok-backdoor.git
 #GyoiThon
+git clone https://github.com/gyoisamurai/GyoiThon.git
 #hackbox
+git clone https://github.com/samhaxr/hackbox.git
 #hackerbot
+git clone https://github.com/omergunal/hackerbot.git
 #hakkuframework
+git clone https://github.com/4shadoww/hakkuframework.git
 #Hash-Buster
+git clone https://github.com/s0md3v/Hash-Buster.git
 #hate_crack
+git clone https://github.com/trustedsec/hate_crack.git
 #HTTPoxyScan
+git clone https://github.com/1N3/HTTPoxyScan.git
 #Hydrator
+git clone https://github.com/DocNow/hydrator.git
 #ID-entify
+git clone https://github.com/BillyV4/ID-entify.git
 #Idisagree
+git clone https://github.com/UndeadSec/Idisagree.git
 #Infoga
+git clone https://github.com/m4ll0k/Infoga.git
 #Injectorist
+git clone https://github.com/Enixes/Injectorist.git
 #Insanity-Framework
+git clone https://github.com/4w4k3/Insanity-Framework.git
 #InstaBrute
+git clone https://github.com/Ha3MrX/InstaBrute.git
 #isf
+git clone https://github.com/dark-lbp/isf.git
 #isthisipbad
+git clone https://github.com/jgamblin/isthisipbad.git
 #JoomlaScan
+git clone https://github.com/rezasp/joomscan.git
+git clone https://github.com/drego85/JoomlaScan.git
 #KatanaFramework
+git clone https://github.com/PowerScript/KatanaFramework.git
 #killchain
+git clone https://github.com/ruped24/killchain.git
 #kimi
+git clone https://github.com/ChaitanyaHaritash/kimi.git
 #koadic
+git clone https://github.com/zerosum0x0/koadic.git
 #kwetza
+git clone https://github.com/sensepost/kwetza.git
 #LALIN
+git clone https://github.com/Screetsec/LALIN.git
 #LaZagneForensic
+git clone https://github.com/AlessandroZ/LaZagneForensic.git
 #LaZagne
+git clone https://github.com/AlessandroZ/LaZagne.git
 #leviathan
+git clone https://github.com/tearsecurity/leviathan.git
 #LFiFreak
+git clone https://github.com/OsandaMalith/LFiFreak.git
 #LFISuite
+git clone https://github.com/D35m0nd142/LFISuite.git
 #liffy
+git clone https://github.com/hvqzao/liffy.git
 #LinDrop
+git clone https://github.com/cys3c/LinDrop/blob/master/lindrop.py
 #linux_screenshot_xwindows
+git clone https://github.com/eurecom-s3/linux_screenshot_xwindows.git
 #litesploit
+git clone https://github.com/Exploit-install/litesploit.git
 #Log-killer
+git clone https://github.com/Rizer0/Log-killer.git
 #MalScan
+git clone https://github.com/malscan/malscan.git
 #MassBleed
+git clone https://github.com/1N3/MassBleed.git
 #massExpConsole
+git clone https://github.com/jm33-m0/mec.git
 #Matroschka
+git clone https://github.com/fbngrm/Matroschka.git
 #Mercury
+git clone https://github.com/MetaChar/Mercury.git
 #metateta
+git clone https://github.com/WazeHell/metateta.git
 #Meterpreter_Paranoid_Mode-SSL
+git clone https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL.git
 #morpheus
+git clone https://github.com/r00t-3xp10it/morpheus.git
 #morphHTA
+git clone https://github.com/vysec/morphHTA.git
 #mpc
+git clone https://github.com/orangeduck/mpc.git
 #ms17
+git clone https://github.com/worawit/MS17-010.git
 #msdat
+git clone https://github.com/quentinhardy/msdat.git
 #msfvenom_custom_encoding
+git clone https://github.com/offsecginger/msfvenom_custom_encoding.git
 #msploitego
+git clone https://github.com/shizzz477/msploitego.git
 #multitor
+git clone https://github.com/trimstray/multitor.git
 #Namechk
+git clone https://github.com/HA71/Namechk.git
 #netattack2
+git clone https://github.com/chrizator/netattack2.git
 #netdiscover-0.3-pre-beta7
+git clone https://github.com/alexxy/netdiscover.git
 #netool-toolkit
+git clone https://github.com/r00t-3xp10it/netool-toolkit.git
 #netpwn
+git clone https://github.com/3XPL017/netpwn.git
 #netsec-framework
+git clone https://github.com/sjbooher/netsec-framework.git
 #NetZapper
+git clone https://github.com/NetZapper/NetZapper.git
 #nipe
+git clone https://github.com/GouveaHeitor/nipe.git
 #NoSQLMap-stable
+git clone https://github.com/codingo/NoSQLMap.git
 #nps_payload
+git clone https://github.com/trustedsec/nps_payload
 #NXcrypt
+git clone https://github.com/Hadi999/NXcrypt.git
 #oddjob
+git clone https://github.com/robjg/oddjob.git
 #omnibus
+git clone https://github.com/chef/omnibus.git
 #One-Lin3r
+git clone https://github.com/D4Vinci/One-Lin3r.git
 #operative-framework
+git clone https://github.com/graniet/operative-framework.git
 #OSPTF
+git clone https://github.com/xSploited/OSPTF.git
 #osrframework
+git clone https://github.com/i3visio/osrframework.git
 #OWASP-Nettacker
+git clone https://github.com/zdresearch/OWASP-Nettacker.git
 #OWASP-ZSC
+git clone https://github.com/zdresearch/OWASP-ZSC.git
 #PasteZort
+git clone https://github.com/ZettaHack/PasteZort.git
 #pasv-agrsv
+git clone https://github.com/isaudits/pasv-agrsv.git
 #PAYLOAD-MAKER
+git clone https://github.com/g0tmi1k/mpc.git
 #PenBox
+git clone https://github.com/x3omdax/PenBox.git
 #pentestly
+git clone https://github.com/praetorian-inc/pentestly.git
 #pentest-machine
+git clone https://github.com/DanMcInerney/pentest-machine.git
 #ph0neutria
 #phpsploit
 #PoizonProxyProcessor
