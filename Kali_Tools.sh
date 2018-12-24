@@ -1,6 +1,6 @@
 #!/bin/bash
 ##############################################################################
-# Descricao: Configuração Kali Linux.
+# Descricao: Tools Kali Linux.
 #------------------------------------------------------------------------------
 # Usabilidade:
 # Configuração inicial do Kali Linux e Instalação de ferramentas 
@@ -55,6 +55,7 @@ git clone https://github.com/AlisamTechnology/ATSCAN.git
 #ATSCAN-V3
 git clone https://github.com/samyoyo/ATSCAN-V3.git
 #attackintel
+https://github.com/gr4ym4ntx/attackintel.git
 #authtool
 #autocrack
 #AutoNessus
@@ -358,8 +359,10 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #TripleX-Crypter.exe
 #update_git_repos.sh
 #ZeusCrypter.exe
-#
-#Wireless Tools
+
+echo "-----------------------------------"
+echo "        Wireless Tools             "
+echo "-----------------------------------"
 #3vilTwinAttacker
 #ADSLPT-WPA
 #aircracktest
@@ -469,7 +472,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #
 # 
 #
-#Exploits (to analyze):
+echo "-----------------------------------"
+echo "       Exploits (to analyze):      "
+echo "-----------------------------------"
 #EARLYSHOVEL RedHat 7.0 – 7.1 Sendmail 8.11.x exploit
 #EBBISLAND (EBBSHAVE) root RCE via RPC XDR overflow in Solaris 6, 7, 8, 9 & 10 (possibly newer) both SPARC and x86.
 #ECHOWRECKER remote Samba 3.0.x Linux exploit.
@@ -500,8 +505,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #EASYFUN WordClient / IIS6.0 exploit
 #ESSAYKEYNOTE
 #EVADEFRED
-#
-#Utilities:
+echo "------------------------------"
+echo "      Utilities:              "
+echo "------------------------------"
 #PASSFREELY utility which “Bypasses authentication for Oracle servers”
 #SMBTOUCH check if the target is vulnerable to samba exploits like ETERNALSYNERGY, ETERNALBLUE, ETERNALROMANCE
 #ERRATICGOPHERTOUCH Check if the target is running some RPC
@@ -511,14 +517,15 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #NAMEDPIPETOUCH Utility to test for a predefined list of named pipes, mostly AV detection. User can add checks for custom named pipes.
 #
 # 
-#
-#Extra Tools:
-#
+echo "------------------------------"
+echo "      #Extra Tools:              "
+echo "------------------------------"
 #DandenSpritz
 #FuzzBunch
-#
-#More tools:
-#
+echo "------------------------------"
+echo "      #More tools:            "
+echo "------------------------------"
+
 #acccheck
 #ace-voip
 #Amap
@@ -579,9 +586,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #Wireshark
 #WOL-E
 #Xplico
-#
-#Vulnerability Analysis
-#
+echo "----------------------------"
+echo "   Vulnerability Analysis   "
+echo "----------------------------"
 #BBQSQL
 #BED
 #cisco-auditing-tool
@@ -611,8 +618,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #unix-privesc-check
 #Yersinia
 #
-#Exploitation Tools
-#
+echo "------------------------"
+echo "   Exploitation Tools   "
+echo "------------------------"
 #Armitage
 #Backdoor Factory
 #BeEF
@@ -633,9 +641,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #sqlmap
 #THC-IPV6
 #Yersinia
-#
-#Wireless Attacks
-#
+echo "------------------------"
+echo "   Wireless Attacks     "
+echo "------------------------"
 #Aircrack-ng
 #Asleap
 #Bluelog
@@ -670,9 +678,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #wifiphisher
 #Wifitap
 #Wifite
-#
-#Forensics Tools
-#
+echo "-----------------------"
+echo "    #Forensics Tools   "
+echo "-----------------------"
 #Binwalk
 #bulk-extractor
 #Capstone
@@ -696,9 +704,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #RegRipper
 #Volatility
 #Xplico
-#
-#Web Applications
-#
+echo "---------------------"
+echo "   Web Applications  "
+echo "---------------------"
 #apache-users
 #Arachni
 #BBQSQL
@@ -740,9 +748,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #WPScan
 #XSSer
 #zaproxy
-#
-#Stress Testing
-#
+echo "------------------------"
+echo "   #Stress Testing      "
+echo "-------------------------"
 #DHCPig
 #FunkLoad
 #iaxflood
@@ -757,9 +765,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #Termineter
 #THC-IPV6
 #THC-SSL-DOS
-#
-#Sniffing & Spoofing
-#
+echo "-------------------------"
+echo "  #Sniffing & Spoofing   "
+echo "-------------------------"
 #Burp Suite
 #DNSChef
 #fiked
@@ -792,9 +800,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #xspy
 #Yersinia
 #zaproxy
-#
-#Password Attacks
-#
+echo"----------------------"
+echo "   #Password Attacks "
+echo "---------------------"
 #acccheck
 #Burp Suite
 #CeWL
@@ -831,9 +839,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #WebScarab
 #wordlists
 #zaproxy
-#
-#Maintaining Access
-#
+echo "-----------------------"
+echo "  #Maintaining Access  "
+echo "------------------------"
 #CryptCat
 #Cymothoa
 #dbd
@@ -851,18 +859,20 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #Webshells
 #Weevely
 #Winexe
-#
-#Hardware Hacking
-#
+
+echo "-----------------------"
+echo "    #Hardware Hacking  "
+echo "-----------------------"
+
 #android-sdk
 #apktool
 #Arduino
 #dex2jar
 #Sakis3G
 #smali
-#
-#Reverse Engineering
-#
+echo "------------------------------"
+echo "      #Reverse Engineering    "
+echo "------------------------------"
 #apktool
 #dex2jar
 #diStorm3
@@ -874,9 +884,9 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #smali
 #Valgrind
 #YARA
-#
-#Reporting Tools
-#
+echo "----------------------------"
+echo "      #Reporting Tools      "
+echo "----------------------------"
 #CaseFile
 #CutyCapt
 #dos2unix
@@ -886,6 +896,3 @@ git clone https://github.com/samyoyo/ATSCAN-V3.git
 #Metagoofil
 #Nipper-ng
 #pipal
-#
-
-
